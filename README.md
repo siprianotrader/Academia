@@ -1,24 +1,41 @@
 # Projeto Academia - Pedro Sipriano
 
-## Bem-vindo ao repositório do projeto **Academia**, desenvolvido por **Pedro Sipriano**, um profissional com 17 anos de experiência em desenvolvimento de sistemas web. Este projeto foi criado para gerenciar academias, utilizando tecnologias modernas e eficientes.
+<h1>👋 &nbsp;Olá, eu sou o Pedro Sipriano, um desenvolvedor full stack apaixonado por transformar ideias em realidade!</h1>
 
-### Tecnologias Utilizadas
+<p align="center">
+  <a href="https://instagram.com/siprianoweb"><img src="https://img.shields.io/badge/-@siprianoweb-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://siprianoweb.com.br"><img src="https://img.shields.io/badge/-siprianoweb.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://www.youtube.com/siprianoweb"><img src="https://img.shields.io/badge/-siprianoweb-D62422?style=flat-square&labelColor=D62422&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/siprianoweb"><img src="https://img.shields.io/badge/-Pedro%20Sipriano-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:siprianoweb@gmail.com"><img src="https://img.shields.io/badge/-siprianoweb@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
-- **HTML**: Estruturação do conteúdo das páginas.
-- **CSS**: Estilização e design responsivo.
-- **JavaScript**: Interatividade e funcionalidades dinâmicas.
-- **Materialize**: Framework front-end para design responsivo e componentes UI.
-- **PHP**: Linguagem de programação utilizada para o back-end, especialmente para o processamento de formulários e interação com o banco de dados.
-- **MySQL**: Sistema de gerenciamento de banco de dados utilizado para armazenar informações sobre usuários, planos e serviços.
+<h2>🏋️‍♂️ &nbsp;Sobre o Projeto Academia</h2>
 
-### Funcionalidades Principais
+Bem-vindo ao repositório do projeto **Academia**, desenvolvido para gerenciar academias de forma eficiente e moderna. Este projeto foi criado utilizando tecnologias que garantem uma experiência de usuário fluida e interativa.
+
+<h2>🛠 &nbsp;Tecnologias</h2>
+
+<h3>💻 &nbsp;Front-end:</h3>
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Materialize](https://img.shields.io/badge/-Materialize-333333?style=flat&logo=material-design&logoColor=0081CB)
+
+<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+
+<h2>🚀 &nbsp;Funcionalidades Principais</h2>
 
 1. **Páginas Principais:**
 
-   - **Home**: Apresentação visual impactante com chamadas para ação (CTA).
-   - **Sobre Nós**: Informações sobre a academia, sua missão e valores.
-   - **Serviços**: Descrição detalhada dos serviços oferecidos.
-   - **Contato**: Formulário de contato integrado com PHP para envio de mensagens.
+   - **Home:** Apresentação visual impactante com chamadas para ação (CTA).
+   - **Sobre Nós:** Informações sobre a academia, sua missão e valores.
+   - **Serviços:** Descrição detalhada dos serviços oferecidos.
+   - **Planos:** Exibição dos planos disponíveis com opções para diferentes perfis.
+   - **Contato:** Formulário de contato integrado com PHP para envio de mensagens.
 
 2. **Design Responsivo:**
 
@@ -30,15 +47,3 @@
 
 4. **Integração com PHP:**
    - O formulário de contato utiliza PHP para processar e enviar mensagens, garantindo que as informações sejam enviadas de forma segura e eficiente. O PHP também é utilizado para interagir com o banco de dados MySQL, permitindo o armazenamento e recuperação de dados dos usuários e serviços.
-
----
-
-## Contato
-
-Para mais informações, você pode me encontrar nas redes sociais:
-
-- [Instagram](https://instagram.com/siprianoweb)
-- [Website](https://siprianoweb.com.br)
-- [YouTube](https://www.youtube.com/siprianoweb)
-- [LinkedIn](https://www.linkedin.com/in/siprianoweb)
-- [Email](mailto:siprianoweb@gmail.com)

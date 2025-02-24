@@ -10,27 +10,32 @@
   <a href="mailto:siprianoweb@gmail.com"><img src="https://img.shields.io/badge/-siprianoweb@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<h2>🏋️‍♂️ &nbsp;Sobre o Projeto Academia</h2>
+---
 
-Bem-vindo ao repositório do projeto **Academia**, desenvolvido para gerenciar academias de forma eficiente e moderna. Este projeto foi criado utilizando tecnologias que garantem uma experiência de usuário fluida e interativa.
+## 🏋️‍♂️ &nbsp;Sobre o Projeto Academia
 
-<h2>🛠 &nbsp;Tecnologias</h2>
+Bem-vindo ao repositório do projeto **Academia**, desenvolvido para gerenciar academias de forma eficiente e moderna. Este projeto foi criado utilizando tecnologias que garantem uma experiência de usuário fluida e interativa, com foco em design responsivo e funcionalidades dinâmicas.
 
-<h3>💻 &nbsp;Front-end:</h3>
+---
+
+## 🛠 &nbsp;Tecnologias Utilizadas
+
+### 💻 &nbsp;Front-end:
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Materialize](https://img.shields.io/badge/-Materialize-333333?style=flat&logo=material-design&logoColor=0081CB)
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+### ⚙️ &nbsp;Back-end e banco de dados:
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 
-<h2>🚀 &nbsp;Funcionalidades Principais</h2>
+---
+
+## 🚀 &nbsp;Funcionalidades Principais
 
 1. **Páginas Principais:**
-
    - **Home:** Apresentação visual impactante com chamadas para ação (CTA).
    - **Sobre Nós:** Informações sobre a academia, sua missão e valores.
    - **Serviços:** Descrição detalhada dos serviços oferecidos.
@@ -38,12 +43,23 @@ Bem-vindo ao repositório do projeto **Academia**, desenvolvido para gerenciar a
    - **Contato:** Formulário de contato integrado com PHP para envio de mensagens.
 
 2. **Design Responsivo:**
-
    - Utilização de **CSS** e **Materialize** para garantir que o site funcione perfeitamente em dispositivos móveis, tablets e desktops.
 
 3. **Interatividade:**
-
    - **JavaScript** para animações, sliders e validação de formulários.
 
 4. **Integração com PHP:**
    - O formulário de contato utiliza PHP para processar e enviar mensagens, garantindo que as informações sejam enviadas de forma segura e eficiente. O PHP também é utilizado para interagir com o banco de dados MySQL, permitindo o armazenamento e recuperação de dados dos usuários e serviços.
+
+
+
+
+## 🤝 &nbsp;Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests. Vamos juntos tornar este projeto ainda mais completo e funcional.
+
+---
+
+**Nota:** Este projeto foi desenvolvido com foco em aprendizado e prática das tecnologias web. Sinta-se à vontade para utilizá-lo como base para seus próprios projetos ou como portfólio.
+
+🌟 **Deixe uma estrela no repositório se você gostou do projeto!** 🌟
